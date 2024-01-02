@@ -1,0 +1,2 @@
+html{box-sizing:border-box;font-size:100%}*,:after,:before{box-sizing:inherit}body{background:var(--yellow);color:var(--black);font-family:var(--font-figtree);margin:0;min-height:150vh;padding:0}.visually-hidden{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}h1,h2,h3{margin-top:0}a,a:active,a:visited{text-decoration:none}:root{--yellow:#f4d04e;--white:#fff;--grey:grey;--black:#121212;--font-figtree:"Figtree",sans-serif}
+/*# sourceMappingURL=style.css.map */

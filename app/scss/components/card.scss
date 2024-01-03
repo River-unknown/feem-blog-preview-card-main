@@ -32,7 +32,7 @@ height:rem(200);
 background-size: cover;
 border-radius: rem(10);
 overflow: hidden;
-margin-top: rem(15);
+margin-top: rem(30);
 }
 .smallText{
     width:rem(325);
@@ -84,12 +84,12 @@ margin-top: rem(15);
 }
 .card_authorImg {
     img{
-   height: rem(40);
+   height: rem(30);
 }
     padding-right: rem(10);
 }
 .card_authorDesc{
   width: rem(279);
   font-weight: 800;
-  font-size: rem(15);
+  font-size: rem(12);
 }

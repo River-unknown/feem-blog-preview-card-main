@@ -11,9 +11,9 @@ body{
     margin:0;
     padding:0;
     font-family: var(--font-figtree);
-    background: var(--yellow);
+    background-color: var(--yellow);
     color:var(--black);
-    min-height: 150vh;
+    min-height: 100vh;
 }
 .visually-hidden{
     position: absolute;

@@ -57,7 +57,7 @@ margin-top: rem(15);
 }
 .card_heading{
     width: rem(325);
-    height: rem(50);
+    //height: rem(50);
     font-size:rem(25);
     font-weight: 800;
     &:hover{
@@ -69,13 +69,14 @@ margin-top: rem(15);
 .card_desc{
     width: rem(325);
     color: var(--grey_);
-    height:(20);
+    //height:rem(20);
     font-size: rem(16);
     line-height: 1.5;
    
 }
 .card_author{
-    margin-top: rem(20);
+    margin-top: rem(10);
+    margin-bottom: rem(10);
     display: flex;
     justify-content:flex-start ;
     align-items: center;
